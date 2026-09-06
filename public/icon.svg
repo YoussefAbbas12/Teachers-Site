@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#004ac6" />
+    </linearGradient>
+  </defs>
+  <!-- App Icon Background: squircle -->
+  <rect width="512" height="512" rx="140" fill="url(#blueGrad)"/>
+  
+  <!-- Graduation Cap Icon -->
+  <g fill="none" stroke="#ffffff" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" transform="translate(10, 15)">
+    <!-- Mortarboard Diamond Top -->
+    <path d="M246 110 L400 190 L246 270 L92 190 Z" fill="#ffffff"/>
+    
+    <!-- Cap Neck / Head Loop -->
+    <path d="M165 240 L165 310 C165 390, 327 390, 327 310 L327 240" stroke-width="26"/>
+    
+    <!-- Hanging Tassel Band -->
+    <path d="M375 200 L375 300 C375 330, 330 330, 330 300" stroke-width="24"/>
+    
+    <!-- Left hanging bead/tassel -->
+    <path d="M102 230 L102 300" stroke="#7bd0ff" stroke-width="20"/>
+    <circle cx="102" cy="225" r="14" fill="#7bd0ff" stroke="none"/>
+  </g>
+</svg>

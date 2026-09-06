@@ -1,0 +1,6 @@
+{
+  "name": "Kinetic Academy",
+  "description": "منصة كينتك أكاديمي التعليمية التفاعلية للثانوية العامة مع بنك الأسئلة واشتراكات الطلاب ولوحة المعلم المتكاملة للتحويل لتطبيق موبايل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
